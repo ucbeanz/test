@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T02:01:55.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="8wWncUoVnlAzQVMKcgmr" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T02:05:00.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="syOvx7a75kyikYlCtmyd" version="14.0.1" type="github">
   <diagram id="v_YiSr3cnpdIU_d-b2BK" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,6 +75,30 @@
         </mxCell>
         <mxCell id="CAC4-D8hJNHPORFLdOr4-31" value="&lt;font color=&quot;#000000&quot;&gt;深滤膜包&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="640" y="310" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-32" value="AD实验室二" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="80" width="720" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="80" width="200" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-35" value="" style="endArrow=none;dashed=1;html=1;startSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1589.5" y="600" as="sourcePoint" />
+            <mxPoint x="1589.5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="80" width="120" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="80" width="140" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;strokeColor=#000000;fontColor=#000000;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="245" y="888" width="110" height="116.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
