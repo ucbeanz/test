@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T02:13:41.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="hleWP1isbMvqJR5fIusy" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T02:21:55.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="KSKnLtjCrHGgAMLQlF-4" version="14.0.1" type="github">
   <diagram id="v_YiSr3cnpdIU_d-b2BK" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -94,13 +94,13 @@
         <mxCell id="CAC4-D8hJNHPORFLdOr4-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="80" width="120" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="CAC4-D8hJNHPORFLdOr4-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-38" value="UF/DF1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="80" width="130" height="260" as="geometry" />
         </mxCell>
         <mxCell id="CAC4-D8hJNHPORFLdOr4-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;strokeColor=#000000;fontColor=#000000;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="245" y="888" width="110" height="116.88" as="geometry" />
         </mxCell>
-        <mxCell id="CAC4-D8hJNHPORFLdOr4-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-44" value="UF/DF2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="550" width="130" height="310" as="geometry" />
         </mxCell>
         <mxCell id="CAC4-D8hJNHPORFLdOr4-45" value="称量区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -138,6 +138,24 @@
         </mxCell>
         <mxCell id="CAC4-D8hJNHPORFLdOr4-56" value="取样区" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="1565" y="106" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-57" value="水池" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="350" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-58" value="水池" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="350" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-59" value="配液区" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1569" y="500" width="100" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-60" value="空瓶暂存" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="430" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-61" value="真空泵" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="95.82" width="100" height="134.18" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-62" value="清洗暂存" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="1695" y="250" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
