@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T01:51:17.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="h9ilH0wuanlrr6FVngj9" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T02:01:55.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="8wWncUoVnlAzQVMKcgmr" version="14.0.1" type="github">
   <diagram id="v_YiSr3cnpdIU_d-b2BK" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,39 @@
         </mxCell>
         <mxCell id="CAC4-D8hJNHPORFLdOr4-19" value="AKTA6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="620" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-20" value="AD实验室一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1030" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="560" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="200" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-25" value="" style="endArrow=none;dashed=1;html=1;startSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="919.5" y="600" as="sourcePoint" />
+            <mxPoint x="919.5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-26" value="水池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="600" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="80" width="120" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-29" value="碱缸" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-30" value="&lt;font color=&quot;#000000&quot;&gt;泵&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="90" width="90" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-31" value="&lt;font color=&quot;#000000&quot;&gt;深滤膜包&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="120" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
