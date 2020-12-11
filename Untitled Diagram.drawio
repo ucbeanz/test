@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T02:12:21.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="Oq2a-JT0eM7vlHURyyXL" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T02:13:41.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="hleWP1isbMvqJR5fIusy" version="14.0.1" type="github">
   <diagram id="v_YiSr3cnpdIU_d-b2BK" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="CAC4-D8hJNHPORFLdOr4-55" value="下游工艺室一" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1607.5" y="950" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CAC4-D8hJNHPORFLdOr4-56" value="取样区" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;dashed=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="106" width="110" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
