@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T09:18:09.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" version="14.0.1" etag="u-EE0xH0ltb1FND94CAY" type="github"><diagram id="NXtYWja0_2EMzkYigZL7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-04T09:21:15.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="Ok7SwXdpGQ-sJv7HhpAz" version="14.0.1" type="github">
+  <diagram id="NXtYWja0_2EMzkYigZL7" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gyhIat2a4F_tPsXi678r-1" value="fermentation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-2" value="centrifugation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-3" value="depth filtration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-4" value="E. coli produce antigen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-5" value="CEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-6" value="AEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-7" value="HIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-8" value="UF/DF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gyhIat2a4F_tPsXi678r-9" value="Formulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
